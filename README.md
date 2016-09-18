@@ -24,13 +24,17 @@ So many great sources are on this page.
 
 Seeing this 2 months ago would have saved me a lot of time. I found it rediculously difficult to train variational autoencoders with L2 loss. I gave up eventualy and just used log loss and normalized my data between 0 and 1. There is a commit about using Huber loss instead of L2 to speed things up. After trying it I noticed similar speed increases in training.
 
-## [Generating Sentences from a Continuous Space](https://arxiv.org/pdf/1511.06349.pdf)
+## [Generating Sentences from a Continuous Space](https://arxiv.org/pdf/1511.06349.pdf) (May 12, 2016)
 
 Does like a Seq2Seq type thing but the hidden state is treated as latent space right before decoding. Figure 1 says it all. Looks like a super good method. I would like to try it out.
 
 ## [Auto-Encoding Variational Bayes](http://arxiv.org/pdf/1312.6114.pdf) (May 1, 2014)
 
 Ya, I guess I will put the original paper in this list.
+
+## [Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images](https://arxiv.org/pdf/1506.07365v3.pdf) (Nov 20, 2015)
+
+Use variational autoencoders to learn compressed representations of control type problems. Figure 1 says it all really. Basicly they learn a linear mapping on the latent space encodeing and use this for planning. They apply it to some basic reinforcement learning problems with visual input.
 
 # Inception Network
 
