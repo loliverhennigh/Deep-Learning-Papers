@@ -48,6 +48,10 @@ Use variational autoencoders to learn compressed representations of control type
 
 ## [Convolutional Neural Networks for Steady Flow Approximation](http://delivery.acm.org/10.1145/2940000/2939738/p481-guo.pdf?ip=159.16.89.60&id=2939738&acc=ACTIVE%20SERVICE&key=6F4CCF05E2930152.3A406A232738A87B.4D4702B0C3E38B35.4D4702B0C3E38B35&CFID=669259551&CFTOKEN=29446944&__acm__=1474220024_73e2d939e30a8b3f8dfcbace50676e17) (Aug 16, 2016)
 
+# ResNet
+
+## [Wide Residual Networks](https://arxiv.org/pdf/1605.07146v1.pdf) (May 23, 2016)
+
 # Transfer Learning
 
 ## [Net2Net: Accelerating Learning via Knowledge Transfer](https://arxiv.org/abs/1511.05641) (Apr 23, 2016)
