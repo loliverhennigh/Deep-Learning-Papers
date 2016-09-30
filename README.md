@@ -56,6 +56,15 @@ Use variational autoencoders to learn compressed representations of control type
 
 ## [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network] (http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf) (Sep 23, 2016)
 
-## [Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf) (Ju 31, 2015)
+## [Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf) (Jul 31, 2015)
+
+# Video Prediction
+
+## [Deep Mulit-Scale Video Prediction Beyond Mean Square Error](https://arxiv.org/pdf/1511.05440v6.pdf) (Feb 26, 2016)
+
+## [Action-Conditional Video Prediction using Deep Networks in Atari Games](http://web.eecs.umich.edu/~baveja/Papers/NIPS2015.pdf)
+
+## [LEARNING VISUAL PREDICTIVE MODELS OF PHYSICS FOR PLAYING BILLIARDS](https://arxiv.org/pdf/1511.07404.pdf) (Jan 19, 2016)
+
 
 
