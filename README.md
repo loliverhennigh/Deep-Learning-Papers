@@ -66,5 +66,11 @@ Use variational autoencoders to learn compressed representations of control type
 
 ## [LEARNING VISUAL PREDICTIVE MODELS OF PHYSICS FOR PLAYING BILLIARDS](https://arxiv.org/pdf/1511.07404.pdf) (Jan 19, 2016)
 
+# Neural Networks for Artistic Style
+
+## [Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork](https://arxiv.org/pdf/1603.01768v1.pdf) (Mar 5, 2016)
+
+## [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf) (Sep 2, 2015)
+
 
 
