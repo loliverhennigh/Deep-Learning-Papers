@@ -78,5 +78,9 @@ Use variational autoencoders to learn compressed representations of control type
 
 ## [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf) (Sep 2, 2015)
 
+# Cool Papers
+
+## [UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION](https://openreview.net/pdf?id=Sy8gdB9xx) (ICLR 2017)
+
 
 
