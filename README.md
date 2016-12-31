@@ -36,6 +36,14 @@ Ya, I guess I will put the original paper in this list.
 
 Use variational autoencoders to learn compressed representations of control type problems. Figure 1 says it all really. Basicly they learn a linear mapping on the latent space encodeing and use this for planning. They apply it to some basic reinforcement learning problems with visual input.
 
+# Generative Adversarial Networks
+
+## [ENERGY-BASED GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1609.03126.pdf) (Nov 4, 2016)
+
+## [GENERATIVE MULTI-ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1611.01673v2.pdf) (Nov 23, 2016)
+
+## [Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498v1.pdf) (Jun 10, 2016)
+
 # Inception Network
 
 ## [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567) (Dec 11, 2015)
